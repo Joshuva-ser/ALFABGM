@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Frutiger&color=%2336BCF7&size=32&lines=WELCOME+TO+ALPHA-SER;THIS+BOT+MADE+BY+JOSHUVA+%26+JIFI)](https://git.io/typing-svg)
 <div align="center">
-        <img src="https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg" alt="GIF" width="250" height="250"/>
+        <img src="https://i.imgur.com/16ZPkuu.jpeg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Joshuva-ser" src="https://img.shields.io/badge/Toxic-Alexa-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Joshuva-ser" src="https://img.shields.io/badge/Joshuva-ser-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
