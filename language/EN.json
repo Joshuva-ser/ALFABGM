@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/c/TamilTurboGamingYT*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan follow cheyyu https://instagram.com/j_o_s_h_u_v_a__?utm_medium=copy_link*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Alexa",
+            "RESTART_DESC": "ALPHA mone restartingaa",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
             "SHUTDOWN_DESC": "Shutdown Alexa",
-            "SHUTDOWN_MSG": "```Shutting down 😴```",
+            "SHUTDOWN_MSG": "```Appo tata 🍂```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -177,7 +177,7 @@
             "LANG": "Language",
             "FROM": "Translated Language",
             "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/c/TamilTurboGamingYT*",
+            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan follow cheyyu https://instagram.com/j_o_s_h_u_v_a__?utm_medium=copy_link*",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
@@ -186,7 +186,7 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song look at me```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
+            "DOWNLOADING_SONG": "\n*Song Thapatte 🍃‍♂️*\n",
             "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/W725IHjXFHY```",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 Alexa Restarting*"
+            "AFTER_UPDATE": "*🙈 ALPHA mone Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
